@@ -1,2 +1,4 @@
 ## code your solution here. 
-Cla
+
+class Cat 
+  attr_accessor
